@@ -46,6 +46,8 @@ The data shows only HR department attrition (7 employees)
 The pie chart shows a single blue section representing HR
 
 
+### Data Visualization
+
 Educational Background:
 
 All 7 employees who left had Human Resources educational backgrounds
