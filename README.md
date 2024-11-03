@@ -66,19 +66,8 @@ Attrition Rate = Attrition count / CF_current Employee
 ![HR Screenshot](https://github.com/user-attachments/assets/50769208-b7d1-4f08-a6d7-501e46dfb1ff)
 
 From our visualization we can answer the questions raised from Exploratory Data Analysis
-Overall Numbers:
-- Total Employees: 1,470
-- Attrition Count: 237 employees have left
-- Current Employees: 1,233
-- Attrition Rate: 16%
-- Average Age: 37 years
-
-Departmental Attrition:
-- The pie chart shows attrition across three departments:
-  - R&D had the highest attrition (133 employees)
-  - Sales (92 employees)
-  - HR (12 employees)
-
+ - 237 employees have left the oraganization and Attrition Rate is 16%
+ - The Pie chart reveaed that R&D had the highest attrition in department level (133 employees)
 Educational Field Distribution of Attrition:
 - Life Sciences shows the highest attrition (around 80 employees)
 - Medical field is second (about 64 employees)
@@ -94,7 +83,12 @@ This visualization suggests that:
 2. There's a gender imbalance in attrition, with males leaving at a higher rate
 3. Technical and support roles seem to have better retention than scientific and sales roles
 
-using the Slicer function to determine each department
+##### using the Filter function to determine the attrition from each Educational Field
+---
+#### Human Resource
+
+![HR HM](https://github.com/user-attachments/assets/41ae6711-0b4b-4a69-8e9c-cb248f612497)
+
 
 ### Key Metrics Analyzed
 - Total Workforce: 27 employees
@@ -162,58 +156,6 @@ using the Slicer function to determine each department
    - Knowledge retention
    - Innovation implementation
 
-### Budget Considerations
-1. **Direct Investments**
-   - Professional development funding
-   - Technology upgrades
-   - Certification support
-   - Training programs
-
-2. **Indirect Investments**
-   - Mentoring time allocation
-   - Team building activities
-   - Recognition programs
-   - Wellness initiatives
-
-## Project Impact & Results
-
-### Expected Outcomes
-1. **Short-term**
-   - Improved employee satisfaction
-   - Enhanced team communication
-   - Better work-life balance
-   - Increased engagement
-
-2. **Long-term**
-   - Reduced attrition rate
-   - Stronger HR team capabilities
-   - Improved knowledge retention
-   - Enhanced departmental performance
-
-### ROI Metrics
-1. **Cost Savings**
-   - Reduced recruitment costs
-   - Lower training expenses
-   - Decreased productivity loss
-   - Better resource utilization
-
-2. **Value Addition**
-   - Improved service quality
-   - Enhanced team capabilities
-   - Stronger organizational culture
-   - Better business partnership
-
-## Tools & Technologies Used
-- HR Analytics Dashboard
-- [Insert specific tools you used]
-- Data visualization software
-- HRIS systems
-
-## Key Learnings & Insights
-1. Importance of data-driven HR decisions
-2. Critical nature of retention in small teams
-3. Value of comprehensive approach to retention
-4. Impact of strategic HR planning
 
 ## Future Recommendations
 1. Regular strategy reviews and updates
@@ -222,7 +164,12 @@ using the Slicer function to determine each department
 4. Innovation in HR practices
 
 
+### Life Science
+--- 
+![HR LS](https://github.com/user-attachments/assets/a0e2f9c8-5ffb-4459-86a4-974b66bf4398)
 
+- From the total employee in the organisation, the Life Science have 606 employees and the number of people that left the organisation is 89 with an attrition rate of 15%.
+- Attrition count by department shows that  59 people left R&D, 29 from sales department and 1 from HR? 
 
 
 
