@@ -10,6 +10,24 @@ This project aimed to analyze HR Data to gan insights into
 4. Create implementation roadmap for recommendations
 
 ## Data Collected
+The HR Data analyzed in this Project comprised of 1,470 number of record and included the key  following variables:
+#### Variables
+  - Attrition: Employee turn over(0/1, Yes/No)
+  - CF_age band: Categorical Age groups( under 25, 25-34, 35-44, 45-54 and above 55)
+  - Department: organizational department
+  - Educational Field: Employee field of study
+  - Gender
+  - Marital Status: Employees's marital status ( Single, Married, Divorced)
+  - Job Role: Employee Job title
+    
+### Tool Used
+---
+ - Power BI
+
+### Data Cleaning and Preparation
+---
+
+
 
 
 ### Key Metrics Analyzed
