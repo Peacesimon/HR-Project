@@ -47,10 +47,11 @@ The pie chart shows a single blue section representing HR
 
 
 ### Data Visualization
+---
+### HR HM
+![Image]https://1drv.ms/i/s!Ao7fWKgef3yhoEgjIUqAYc32of95?e=qvAOaq
 
 
-
-https://github.com/Peacesimon/HR-Project/blob/main/HR%20Screenshot.png
 
 Educational Backgroun:
 
