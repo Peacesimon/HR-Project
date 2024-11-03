@@ -1,12 +1,7 @@
 # HR Analytics & Retention Strategy Project
+---
 ## Project Overview
-
-**Project Title:** HR Department Attrition Analysis & Retention Strategy
-**Duration:** [Insert your project duration]
-**Role:** HR Analytics Specialist/Consultant
-
-### Business Context
-An Incubator Hub was experiencing significant attrition within their HR department, necessitating a data-driven approach to understand and address retention challenges.
+This project aimed to analyze HR Data to gan insights into 
 
 ### Project Objectives
 1. Analyze current HR department attrition patterns
