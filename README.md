@@ -26,7 +26,36 @@ The HR Data analyzed in this Project comprised of 1,470 number of record and inc
 
 ### Data Cleaning and Preparation
 ---
+In the initial phase of the data cleaning and data preparation, we perform the following functions
+  1. The data was loaded, tranformed and cleaned
+  2. Conditional columns were added such as  Attrition count, age sort and Job Satisfaction Rating
 
+### EXploratory Data Analysis
+---
+EDA involves the exploring of the data to answer some questions about the data such as:
+ #### Attrition
+  1. What is the overall attrition rate in the organisation?
+  2. which Department have the highest/ lowest attrition rate?
+  3. Is there a correllation between monthly income and attrition?
+ #### Demographics
+  1. What is the age distribution of the employee?
+  2. what is the average age of the employee?
+  3. What is the most common educational fields among Employee?
+  4. Is there a difference in the attrition rate between marital status group?
+ #### Job Characterictics    
+ 1.  Is job satisfaction related to attrition?
+ 2.  What Job roles have the Highest/Lowest attrition rate?
+ 3.  Is Job satisfaction related to attrition?
+ #### Strategic Decision Making
+  1. What initiatives can we employ to reduce attrition?
+  2. How can we optimize employee retention strategies departmen-wise?
+
+### Formula Used
+```Power BI
+Attrition Rate = Attrition count / CF_current Employee
+```
+  
+  
 
 
 
