@@ -48,7 +48,11 @@ The pie chart shows a single blue section representing HR
 
 ### Data Visualization
 
-Educational Background:
+
+
+https://github.com/Peacesimon/HR-Project/blob/main/HR%20Screenshot.png
+
+Educational Backgroun:
 
 All 7 employees who left had Human Resources educational backgrounds
 This suggests the department hires primarily from HR educational programs
