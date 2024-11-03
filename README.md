@@ -9,7 +9,8 @@ This project aimed to analyze HR Data to gan insights into
 3. Develop targeted retention strategies
 4. Create implementation roadmap for recommendations
 
-## Data Analysis
+## Data Collected
+
 
 ### Key Metrics Analyzed
 - Total Workforce: 27 employees
