@@ -89,27 +89,21 @@ This visualization suggests that:
 
 ![HR HM](https://github.com/user-attachments/assets/41ae6711-0b4b-4a69-8e9c-cb248f612497)
 
-
-### Key Metrics Analyzed
-- Total Workforce: 27 employees
-- Attrition Count: 7 employees
-- Current Headcount: 20 employees
-- Attrition Rate: 26% (significantly higher than organization-wide rate of 16%)
-- Average Age: 37 years
-
-### Demographics Analysis
-**Gender Distribution of Attrition:**
-- Male: 57.14%
-- Female: 42.86%
-
-**Educational Background:**
+##### Key Findings
+- From the total employee in the organisation, Human Resource have 27 employees and the number of people that left the organisation is 7 with an attrition rate of 26%.
+- Attrition count by department shows that  59 people left R&D, 29 from sales department and 1 from HR.
 - 100% of departing employees had HR educational backgrounds
+ - HR department's 26% attrition rate exceeds organizational average by 10%
 
-## Key Findings
+
+
+
+
+
 
 ### Critical Issues Identified
 1. **High Attrition Rate**
-   - HR department's 26% attrition rate exceeds organizational average by 10%
+  
    - Small team size magnifies impact of each departure
 
 2. **Team Composition Challenges**
@@ -168,11 +162,22 @@ This visualization suggests that:
 --- 
 ![HR LS](https://github.com/user-attachments/assets/a0e2f9c8-5ffb-4459-86a4-974b66bf4398)
 
-- From the total employee in the organisation, the Life Science have 606 employees and the number of people that left the organisation is 89 with an attrition rate of 15%.
-- Attrition count by department shows that  59 people left R&D, 29 from sales department and 1 from HR? 
+- From the total employee in the organisation, Life Science have 606 employees and the number of people that left the organisation is 89 with an attrition rate of 15%.
+- Attrition count by department shows that  59 people left R&D, 29 from sales department and 1 from HR.
+
+### Marketing
+---
+![HR MKT](https://github.com/user-attachments/assets/389c3c72-5935-426b-ab01-60bad7a137ef)
 
 
+### Medical
+![medical](https://github.com/user-attachments/assets/34627784-83c9-4285-82e8-bcca18d7bbdd)
 
+### Other
+![other](https://github.com/user-attachments/assets/20116660-f8e2-4cdc-89b8-70e4cc28c49a)
+
+### Technical
+![technical](https://github.com/user-attachments/assets/7a0859a0-7b2e-4526-87c6-15e7d6ae0886)
 
 
 
