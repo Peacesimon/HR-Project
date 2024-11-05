@@ -173,8 +173,6 @@ From this employee satisfaction and demographic data, here are key insights:
 - Sales roles maintain relatively balanced satisfaction levels
 - Good age diversity in the workforce
 
-Would you like me to explore any particular aspect of this analysis in more detail?
-
 
 
 
