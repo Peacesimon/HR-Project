@@ -133,7 +133,47 @@ The number of employee that left the organisaion from Marketing account for 35 a
 
 
 The visualisation shows the Job role and and their Job Role and their Satisfation level and the marital status of the employee in the orgnisatiom
+From this employee satisfaction and demographic data, here are key insights:
 
+1. Gender Distribution by Age:
+- The workforce shows gender diversity across age groups
+- Highest concentration of employees is in the 35-44 age range for both genders
+- Male employees slightly outnumber female employees in most age brackets
+- Very few employees under 25 years old (around 50-60 total)
+
+2. Job Satisfaction Analysis:
+- Laboratory Technicians form the largest employee group with generally high satisfaction
+  * 21 satisfied and 13 very satisfied
+  * However, 8 are dissatisfied and 20 very dissatisfied, showing polarization
+- Research Scientists show mixed satisfaction:
+  * 15 satisfied and 9 very satisfied
+  * 10 dissatisfied and 13 very dissatisfied
+- Sales roles (Executives and Representatives) show balanced satisfaction levels
+  * Sales Executives: 18 satisfied, 14 very satisfied
+
+3. Management Roles:
+- Relatively small number of managers and directors
+- Manufacturing Directors show moderate satisfaction levels
+- Research Directors have mixed satisfaction levels
+- Managers show fairly even distribution across satisfaction levels
+
+4. Marital Status Insights:
+- The data shows information for divorced employees
+- Distribution spans across different satisfaction levels (1-4)
+- Both male and female divorced employees are represented
+- Ages range from late 20s to early 50s
+
+5. Areas of Concern:
+- High dissatisfaction among Laboratory Technicians needs attention
+- Research Scientists show significant dissatisfaction
+- Some dissatisfaction exists even at higher levels (Directors)
+
+6. Positive Notes:
+- Healthcare Representatives show strong satisfaction overall
+- Sales roles maintain relatively balanced satisfaction levels
+- Good age diversity in the workforce
+
+Would you like me to explore any particular aspect of this analysis in more detail?
 
 
 
