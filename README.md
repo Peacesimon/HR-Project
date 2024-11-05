@@ -1,7 +1,7 @@
-# HR Analytics & Retention Strategy Project
----
+# HR Analytics Project
+
 ## Project Overview
-This project aimed to analyze HR Data to gan insights into 
+This project aimed to analyze HR Data to gain  insights into employee trends, attrition and provide strategid decision making. 
 
 ### Project Objectives
 1. Analyze current HR department attrition patterns
@@ -83,80 +83,24 @@ This visualization suggests that:
 2. There's a gender imbalance in attrition, with males leaving at a higher rate
 3. Technical and support roles seem to have better retention than scientific and sales roles
 
-##### using the Filter function to determine the attrition from each Educational Field
+### using the Filter function to determine the attrition from each Educational Field
 ---
 #### Human Resource
 
 ![HR HM](https://github.com/user-attachments/assets/41ae6711-0b4b-4a69-8e9c-cb248f612497)
 
 ##### Key Findings
-- From the total employee in the organisation, Human Resource have 27 employees and the number of people that left the organisation is 7 with an attrition rate of 26%.
-- Attrition count by department shows that  59 people left R&D, 29 from sales department and 1 from HR.
-- 100% of departing employees had HR educational backgrounds
+ - From the total employee in the organisation, Human Resource have 27 employees and the number of people that left the organisation is 7 with an attrition rate of 26%.
+ - Attrition count by department shows that  59 people left R&D, 29 from sales department and 1 from HR.
+ - 100% of departing employees had HR educational backgrounds
  - HR department's 26% attrition rate exceeds organizational average by 10%
-
-
-
-
-
-
-
-### Critical Issues Identified
-1. **High Attrition Rate**
-  
-   - Small team size magnifies impact of each departure
-
-2. **Team Composition Challenges**
-   - Limited educational diversity
-   - Gender distribution indicates potential equity considerations
-
-3. **Resource Impact**
-   - Knowledge retention risks
-   - Operational continuity challenges
-   - High replacement costs
+ - Small team size magnifies impact of each departure
 
 ## Strategic Recommendations
-
-### Immediate Actions (0-3 Months)
 1. Implement stay interviews
 2. Review compensation structures
 3. Launch flexible work arrangements
 4. Establish regular feedback mechanisms
-
-### Medium-Term Solutions (3-6 Months)
-1. Develop career progression frameworks
-2. Create mentorship programs
-3. Upgrade HR technologies
-4. Implement professional development initiatives
-
-### Long-Term Strategies (6-12 Months)
-1. Build succession planning
-2. Establish HR leadership academy
-3. Create innovation opportunities
-4. Develop strategic partnerships
-
-## Implementation Framework
-
-### Success Metrics
-1. **Quantitative KPIs**
-   - Reduction in attrition rate (Target: <15%)
-   - Employee satisfaction scores
-   - Training completion rates
-   - Career progression metrics
-
-2. **Qualitative Indicators**
-   - Employee engagement levels
-   - Quality of HR deliverables
-   - Knowledge retention
-   - Innovation implementation
-
-
-## Future Recommendations
-1. Regular strategy reviews and updates
-2. Continuous feedback collection
-3. Adaptation to changing needs
-4. Innovation in HR practices
-
 
 ### Life Science
 --- 
@@ -170,8 +114,13 @@ This visualization suggests that:
 ![HR MKT](https://github.com/user-attachments/assets/389c3c72-5935-426b-ab01-60bad7a137ef)
 
 
+The number of employee that left the organisaion from Marketing account for 35 and the department they left from is sales department
+
+
 ### Medical
 ![medical](https://github.com/user-attachments/assets/34627784-83c9-4285-82e8-bcca18d7bbdd)
+
+
 
 ### Other
 ![other](https://github.com/user-attachments/assets/20116660-f8e2-4cdc-89b8-70e4cc28c49a)
@@ -180,73 +129,18 @@ This visualization suggests that:
 ![technical](https://github.com/user-attachments/assets/7a0859a0-7b2e-4526-87c6-15e7d6ae0886)
 
 
+![image](https://github.com/user-attachments/assets/6564f1c4-be8e-47cf-8453-0c844f8d22ef)
+
+
+The visualisation shows the Job role and and their Job Role and their Satisfation level and the marital status of the employee in the orgnisatiom
 
 
 
 
-## Project Tittle: HR Data Analysis
-This appears to be an HR data analysis dashboard for an Incubator Hub, showing various metrics related to employee attrition and workforce demographics. Let me break down the key insights:
 
-, specifically showing data for the Human Resources department. Let me break down what I see:
-Overall Numbers:
-
-Total Employees: 27
-Attrition Count: 7 employees have left
-Current Employees: 20
-Attrition Rate: 26%
-Average Age: 37 years
-
-Key Insights:
-
-Department Focus:
-
-The data shows only HR department attrition (7 employees)
-The pie chart shows a single blue section representing HR
-
-
-### Data Visualization
----
-### HR HM
-![Screenshots RR](https://github.com/user-attachments/assets/152c1093-a9d9-49de-b81e-00b250ed9061)
-
-
-### 
-
-
-
-
-Educational Backgroun:
-
-All 7 employees who left had Human Resources educational backgrounds
-This suggests the department hires primarily from HR educational programs
-
-
-Gender Distribution:
-
-Male: 57.14% of attrition (approximately 4 employees)
-Female: 42.86% of attrition (approximately 3 employees)
-
-
-
-Concerning Patterns:
-
-High Attrition Rate:
-
-The 26% attrition rate is significantly higher than the overall rate of 16% seen in the previous dashboard
-This suggests retention issues specific to the HR department
-
-
-Small Team Impact:
-
-With only 27 total employees, losing 7 represents a substantial portion of the workforce
-This level of turnover could significantly impact operations and institutional knowledge
-
-
-
-Recommendations:
-
-Conduct exit interviews to understand why HR professionals are leaving
-Review compensation and career development opportunities
-Assess workload and team structure given the small team size
-Develop retention strategies specifically for HR professionals
-Consider implementing mentorship programs to improve engagement
+### Recommendations:
+- Conduct exit interviews to understand why HR professionals are leaving
+- Review compensation and career development opportunities
+- Assess workload and team structure given the small team size
+- Develop retention strategies specifically for HR professionals
+- Consider implementing mentorship programs to improve engagement
